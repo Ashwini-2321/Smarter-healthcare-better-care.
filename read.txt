@@ -1,0 +1,785 @@
+# MASTER PROMPT – CLINEXA
+## AI-Powered Smart Healthcare Appointment and Management System
+
+Act as a senior full-stack software developer, UI/UX designer, backend engineer, database architect, and machine learning engineer.
+
+I want you to develop my existing project into a complete, modern, professional, responsive healthcare web application called **Clinexa – AI-Powered Smart Healthcare Appointment and Management System**.
+
+The application should be fully functional, with a professional frontend, working backend, database integration, authentication, appointment management, dashboards, and three machine learning features.
+
+Do not create just a static UI or demo screens. Connect all features to the backend and database wherever applicable.
+
+---
+
+# 1. EXISTING PROJECT – IMPORTANT
+
+My current project uses:
+
+- Frontend: React.js, Vite, JavaScript, CSS
+- Backend: Node.js and Express.js
+- Database: MongoDB with Mongoose (to be integrated)
+- Machine Learning: Python, Scikit-learn
+- ML API: Flask or FastAPI
+
+Existing configuration:
+
+- Frontend: http://localhost:5173
+- Backend: http://localhost:5000
+- Python ML service: http://localhost:8000
+
+Existing frontend files include:
+- App.jsx
+- main.jsx
+- Doctors.jsx
+- Appointment.jsx
+- index.css
+- App.css
+
+Existing backend:
+- backend/server.js
+- backend/package.json
+
+The existing appointment booking functionality is working.
+
+IMPORTANT:
+1. Inspect the entire existing project before making changes.
+2. Preserve existing working functionality.
+3. Do not delete useful files without justification.
+4. Do not create duplicate project structures.
+5. Keep the existing frontend and backend ports.
+6. Preserve these existing endpoints:
+   - GET /api/doctors
+   - GET /api/appointments
+   - POST /api/appointments
+7. Improve the existing project rather than unnecessarily starting from scratch.
+8. Use JavaScript unless there is a strong technical reason to use another language.
+9. Never put API secrets directly in frontend code.
+10. Do not claim a feature is complete unless it has been implemented and tested.
+
+# 2. PROJECT DESIGN AND USER INTERFACE
+
+Create a modern healthcare SaaS-style interface.
+
+Design requirements:
+- Professional healthcare appearance.
+- White, light blue, teal and navy colour palette.
+- Clean layouts and consistent spacing.
+- Modern typography.
+- Rounded cards and subtle shadows.
+- Attractive icons.
+- Responsive navigation.
+- Smooth but subtle animations.
+- Professional buttons and forms.
+- Mobile, tablet and desktop compatibility.
+- Loading states and error messages.
+- Empty states when no records are available.
+
+Use reusable React components.
+
+Create a consistent design system for:
+- Buttons
+- Cards
+- Forms
+- Modals
+- Navigation
+- Tables
+- Dashboard widgets
+- Status labels
+- Notifications
+
+Avoid clutter and excessive animations.
+
+# 3. PUBLIC LANDING PAGE
+
+Create an attractive landing page containing:
+
+A. Navigation bar
+- Clinexa logo
+- Home
+- About
+- Find Doctors
+- Services
+- AI Features
+- Contact
+- Login
+- Register
+
+B. Hero section
+- Heading: "Smarter Healthcare, Better Care."
+- Short project description.
+- Book an Appointment button.
+- Explore Doctors button.
+- Attractive healthcare illustration.
+
+C. About Clinexa
+- Explain the purpose of the platform.
+- Explain how Clinexa simplifies healthcare appointment management.
+
+D. Healthcare services
+- Online appointment booking
+- Doctor discovery
+- Smart specialty recommendations
+- Appointment management
+- Digital prescriptions
+- Notifications
+
+E. Featured doctors
+- Display doctor cards.
+- Show doctor name, specialization, experience and availability.
+- Include View Profile and Book Appointment actions.
+
+F. AI features section
+Explain all three ML features.
+
+G. How it works
+- Register.
+- Find a doctor.
+- Book an appointment.
+- Receive reminders.
+- Attend the appointment.
+
+H. Contact section
+- Contact information.
+- Contact form with backend validation.
+
+I. Footer
+- About Clinexa.
+- Navigation links.
+- Services.
+- Privacy policy.
+- Terms and conditions.
+
+# 4. AUTHENTICATION AND USER MANAGEMENT
+
+Create secure registration and login.
+
+User roles:
+1. Patient
+2. Doctor
+3. Admin
+
+Features:
+- Patient registration.
+- Doctor login.
+- Admin login.
+- Password hashing using bcrypt.
+- JWT authentication.
+- Protected routes.
+- Role-based authorization.
+- Logout.
+- Profile management.
+- Form validation.
+- Appropriate error messages.
+
+Do not expose passwords or private user information in API responses.
+
+Do not allow users to assign themselves the admin role through public registration.
+
+# 5. PATIENT DASHBOARD
+
+Create a complete patient dashboard.
+
+Include:
+
+A. Dashboard overview
+- Welcome message.
+- Total appointments.
+- Upcoming appointments.
+- Completed appointments.
+- Cancelled appointments.
+
+B. My appointments
+- View appointments.
+- View appointment details.
+- Cancel appointments.
+- Reschedule appointments.
+- Appointment status.
+
+C. Find doctors
+- Search doctors.
+- Filter by specialization.
+- Filter by availability.
+- View doctor profiles.
+
+D. My prescriptions
+- View prescriptions created by authorized doctors.
+- View prescription date.
+- View doctor's details.
+- Download or print prescriptions where appropriate.
+
+E. My profile
+- Name.
+- Email.
+- Phone number.
+- Profile information.
+- Edit profile.
+
+F. Notifications
+- Appointment confirmation.
+- Appointment reminders.
+- Rescheduling notifications.
+- Cancellation notifications.
+
+# 6. DOCTOR DISCOVERY AND MANAGEMENT
+
+Create a professional doctor directory.
+
+Display:
+- Doctor name.
+- Profile picture.
+- Specialization.
+- Qualifications.
+- Experience.
+- Consultation fee, if configured.
+- Availability.
+- Hospital or clinic information.
+- Short professional biography.
+
+Features:
+- Search doctors by name.
+- Filter by specialization.
+- Filter by availability.
+- Sort by experience.
+- View doctor profile.
+- Book appointment.
+
+Doctor dashboard:
+- Today's appointments.
+- Upcoming appointments.
+- Patient appointment details, limited to authorized information.
+- Manage availability.
+- Update professional profile.
+- View appointment history.
+- Create and manage prescriptions for their authorized patients.
+
+Only authorized doctors can create or update prescriptions.
+
+# 7. APPOINTMENT MANAGEMENT
+
+Implement a complete appointment management system.
+
+Features:
+- Select a doctor.
+- Select appointment date.
+- Display available time slots.
+- Select a time slot.
+- Enter patient details.
+- Confirm appointment.
+- Generate unique appointment ID.
+- Store appointments in MongoDB.
+- Prevent duplicate bookings for the same doctor and time slot.
+- Validate booking dates and availability.
+- Allow rescheduling.
+- Allow cancellation.
+- Maintain appointment status.
+
+Appointment statuses:
+- Pending
+- Confirmed
+- Completed
+- Cancelled
+
+Appointment APIs must be connected to the frontend.
+
+# 8. MACHINE LEARNING FEATURES
+
+Implement all three ML features using Python and Scikit-learn.
+
+Keep ML processing in a separate Python service.
+
+The React frontend must communicate with the Node.js backend. Node.js should communicate with the Python ML service.
+
+## ML FEATURE 1: SYMPTOM-TO-SPECIALTY RECOMMENDATION
+
+Purpose:
+Help users navigate to a potentially relevant medical specialty based on selected general symptoms.
+
+Requirements:
+- Allow users to select symptoms from a controlled list.
+- Use a Decision Tree or Random Forest model.
+- Return a suggested medical specialty.
+- Explain the recommendation in simple language.
+- Provide a button to browse doctors in that specialty.
+
+Important safety requirements:
+- This feature is not a medical diagnosis.
+- Do not recommend medicines or treatments.
+- Do not claim that a specialty recommendation confirms a disease.
+- Display a clear medical disclaimer.
+- Display appropriate emergency guidance for potentially urgent symptoms.
+- Encourage users to consult qualified healthcare professionals.
+
+## ML FEATURE 2: SMART DOCTOR RECOMMENDATION
+
+Purpose:
+Recommend suitable doctors based on user preferences.
+
+Consider:
+- Selected specialization.
+- Doctor availability.
+- Preferred appointment time.
+- Consultation fee, if available.
+- Doctor experience.
+- User preferences.
+
+Use content-based filtering or a similarity-ranking approach.
+
+Display:
+- Recommended doctor.
+- Specialization.
+- Availability.
+- Explanation of why the doctor was recommended.
+
+Do not invent ratings or qualifications.
+
+## ML FEATURE 3: APPOINTMENT NO-SHOW PREDICTION
+
+Purpose:
+Estimate the likelihood that an appointment may be missed.
+
+Consider available appointment-related features:
+- Day of the week.
+- Appointment time.
+- Booking lead time.
+- Reminder status.
+- Previous attendance information, where lawfully available.
+
+Use a suitable classification model.
+
+Display:
+- Low, medium or high estimated risk.
+- Simple explanation.
+- Suggested reminder actions.
+
+Important:
+- Do not use predictions to deny or restrict appointments.
+- Do not penalize patients.
+- Clearly label predictions as estimates.
+- Use fictional or synthetic training data for the demonstration.
+- Do not claim real-world predictive accuracy without proper validation.
+
+# 9. DIGITAL PRESCRIPTION MANAGEMENT
+
+Implement a prescription module.
+
+Features:
+- Authorized doctor can create prescriptions.
+- Store prescription information securely.
+- Link prescriptions to appointments and patients.
+- Patient can view their prescriptions.
+- Doctor can view authorized prescription history.
+- Print-friendly prescription format.
+
+Prescription fields:
+- Prescription ID.
+- Patient name.
+- Doctor name.
+- Appointment reference.
+- Date.
+- Clinician-entered notes.
+- Clinician-entered medicines and instructions.
+
+Never generate or automatically prescribe medication using ML or AI.
+
+# 10. NOTIFICATION SYSTEM
+
+Implement an in-app notification system.
+
+Notifications:
+- Registration success.
+- Appointment confirmation.
+- Appointment reminder.
+- Appointment rescheduling.
+- Appointment cancellation.
+- Prescription availability.
+
+Provide:
+- Notification list.
+- Unread notification count.
+- Mark as read.
+- Notification timestamps.
+
+Prepare an architecture for optional email notifications.
+
+Do not expose email passwords or provider credentials.
+
+# 11. ADMIN DASHBOARD
+
+Create a professional admin dashboard.
+
+Display:
+- Total patients.
+- Total doctors.
+- Total appointments.
+- Completed appointments.
+- Cancelled appointments.
+- Upcoming appointments.
+
+Admin features:
+- View patients.
+- Manage doctors.
+- Add doctors.
+- Edit doctor information.
+- Remove or deactivate doctor accounts.
+- View appointments.
+- Manage users.
+- Monitor platform activity.
+- View appointment analytics.
+
+Only authorized administrators can access admin functions.
+
+# 12. BACKEND ARCHITECTURE
+
+Organize the backend into a maintainable structure.
+
+Suggested structure:
+
+backend/
+  config/
+    db.js
+
+  models/
+    User.js
+    Doctor.js
+    Appointment.js
+    Prescription.js
+    Notification.js
+
+  controllers/
+    authController.js
+    doctorController.js
+    appointmentController.js
+    prescriptionController.js
+    notificationController.js
+    dashboardController.js
+    mlController.js
+
+  routes/
+    authRoutes.js
+    doctorRoutes.js
+    appointmentRoutes.js
+    prescriptionRoutes.js
+    notificationRoutes.js
+    dashboardRoutes.js
+    mlRoutes.js
+
+  middleware/
+    authMiddleware.js
+    roleMiddleware.js
+    errorMiddleware.js
+
+  server.js
+  package.json
+
+Use Mongoose for database models.
+
+Implement:
+- Input validation.
+- Error handling.
+- Authentication.
+- Authorization.
+- Secure password storage.
+- Proper HTTP status codes.
+- Consistent API response formats.
+- Pagination for large lists where appropriate.
+
+# 13. REQUIRED API ENDPOINTS
+
+Authentication:
+- POST /api/auth/register
+- POST /api/auth/login
+- GET /api/auth/profile
+- PUT /api/auth/profile
+
+Doctors:
+- GET /api/doctors
+- GET /api/doctors/:id
+- POST /api/doctors
+- PUT /api/doctors/:id
+- DELETE /api/doctors/:id
+- GET /api/doctors/search
+
+Appointments:
+- POST /api/appointments
+- GET /api/appointments
+- GET /api/appointments/:id
+- PUT /api/appointments/:id
+- PATCH /api/appointments/:id/cancel
+
+Prescriptions:
+- POST /api/prescriptions
+- GET /api/prescriptions
+- GET /api/prescriptions/:id
+- PUT /api/prescriptions/:id
+
+Notifications:
+- GET /api/notifications
+- PATCH /api/notifications/:id/read
+
+Dashboards:
+- GET /api/dashboard/patient
+- GET /api/dashboard/doctor
+- GET /api/dashboard/admin
+
+ML:
+- POST /api/ml/symptom-recommendation
+- POST /api/ml/doctor-recommendation
+- POST /api/ml/no-show-prediction
+
+Preserve existing endpoints and their expected behavior.
+
+# 14. DATABASE
+
+Use MongoDB Atlas or a local MongoDB installation.
+
+Create appropriate schemas for:
+- Users
+- Doctors
+- Appointments
+- Prescriptions
+- Notifications
+
+Requirements:
+- Appropriate field validation.
+- Unique email addresses.
+- Secure password storage.
+- Relationships between records.
+- Appointment slot validation.
+- Timestamps.
+- Appropriate indexes.
+
+Use fictional demonstration data.
+
+Never use real patient information for development or testing.
+
+# 15. PYTHON MACHINE LEARNING SERVICE
+
+Create a separate folder:
+
+ml-service/
+  app.py
+  requirements.txt
+  models/
+  datasets/
+  train.py
+
+Requirements:
+- Python.
+- Flask or FastAPI.
+- Scikit-learn.
+- Pandas.
+- NumPy.
+
+Implement separate modules for:
+- Specialty recommendation.
+- Doctor recommendation.
+- No-show prediction.
+
+Provide clear API responses.
+
+Validate incoming requests.
+
+Use synthetic demonstration data where actual validated datasets are unavailable.
+
+Document model limitations and evaluation results.
+
+# 16. ENVIRONMENT CONFIGURATION
+
+Use environment variables.
+
+Backend .env:
+
+PORT=5000
+NODE_ENV=development
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_generated_secret
+JWT_EXPIRES_IN=1d
+ML_SERVICE_URL=http://localhost:8000
+GEMINI_API_KEY=your_gemini_api_key
+EMAIL_USER=your_email
+EMAIL_PASSWORD=your_email_app_password
+
+Only configure Gemini and email credentials if those integrations are implemented and needed.
+
+Create a .env.example file with placeholders.
+
+Add .env and other sensitive files to .gitignore.
+
+Never expose secrets in React code or GitHub.
+
+Do not invent or hardcode real API keys.
+
+# 17. FRONTEND COMPONENT ORGANIZATION
+
+Use a clean frontend structure.
+
+Suggested structure:
+
+src/
+  components/
+    Navbar.jsx
+    Footer.jsx
+    DoctorCard.jsx
+    AppointmentForm.jsx
+    ProtectedRoute.jsx
+    Sidebar.jsx
+    NotificationBell.jsx
+
+  pages/
+    Home.jsx
+    About.jsx
+    Doctors.jsx
+    DoctorProfile.jsx
+    Login.jsx
+    Register.jsx
+    PatientDashboard.jsx
+    DoctorDashboard.jsx
+    AdminDashboard.jsx
+    Appointments.jsx
+    Prescriptions.jsx
+    SymptomChecker.jsx
+    DoctorRecommendations.jsx
+    Profile.jsx
+    NotFound.jsx
+
+  services/
+    api.js
+    authService.js
+    doctorService.js
+    appointmentService.js
+    mlService.js
+
+  context/
+    AuthContext.jsx
+
+  styles/
+    global.css
+
+  App.jsx
+  main.jsx
+
+Adapt this structure to the existing project instead of creating duplicate files.
+
+Use React Router for navigation.
+
+# 18. SECURITY AND PRIVACY
+
+Implement:
+- Password hashing.
+- JWT authentication.
+- Role-based authorization.
+- Server-side validation.
+- Secure environment variables.
+- CORS configuration.
+- Safe error handling.
+- Protection against unauthorized data access.
+- Access restrictions for patient records.
+- Rate limiting for sensitive endpoints where appropriate.
+
+Do not expose one patient's private information to another patient.
+
+Use fictional sample data during development.
+
+# 19. TESTING AND QUALITY
+
+Test:
+- Frontend build.
+- Backend server startup.
+- MongoDB connection.
+- Registration.
+- Login.
+- Protected routes.
+- Doctor listing.
+- Appointment booking.
+- Duplicate slot prevention.
+- Cancellation.
+- Rescheduling.
+- Prescription authorization.
+- Dashboard APIs.
+- ML endpoints.
+- Invalid input handling.
+
+Fix errors before declaring a feature complete.
+
+Make sure all frontend buttons and navigation links perform their intended actions.
+
+Do not leave fake buttons or nonfunctional forms.
+
+# 20. DOCUMENTATION
+
+Create a beginner-friendly README.md explaining:
+
+- Project introduction.
+- Features.
+- Technology stack.
+- Folder structure.
+- Installation.
+- Environment variables.
+- MongoDB setup.
+- Backend startup.
+- Frontend startup.
+- Python ML service setup.
+- API endpoints.
+- Testing instructions.
+
+Also create .env.example.
+
+# 21. IMPLEMENTATION INSTRUCTIONS
+
+Work through the complete project in phases:
+
+Phase 1: Inspect existing project and prepare the foundation.
+
+Phase 2: Backend architecture and MongoDB integration.
+
+Phase 3: Authentication and role-based access.
+
+Phase 4: Professional frontend and navigation.
+
+Phase 5: Doctor management and appointment management.
+
+Phase 6: Patient and doctor dashboards.
+
+Phase 7: Three machine learning features.
+
+Phase 8: Prescriptions and notifications.
+
+Phase 9: Admin dashboard and analytics.
+
+Phase 10: Testing, security checks, documentation and final polish.
+
+Do not simply provide a plan. Implement the project.
+
+After each phase:
+1. Explain what was implemented.
+2. List all files created or modified.
+3. Explain how to test the changes.
+4. Run the appropriate tests.
+5. Fix errors.
+6. Confirm that existing functionality still works.
+7. Wait for my approval before starting the next phase.
+
+I am a beginner, so explain technical changes in simple English.
+
+Do not overwhelm me with too many manual steps.
+
+If a configuration value or API key is missing, create the required placeholder and explain exactly where I should obtain it. Never invent credentials.
+
+# FINAL EXPECTATION
+
+Deliver a complete, functional, professional healthcare web application named **Clinexa – AI-Powered Smart Healthcare Appointment and Management System**.
+
+The final project should have:
+- A polished responsive frontend.
+- Secure backend.
+- MongoDB database.
+- Patient, doctor and admin roles.
+- Complete appointment management.
+- Three working ML demonstration modules.
+- Digital prescription management.
+- Notifications.
+- Dashboards and analytics.
+- Proper documentation.
+- Successful frontend build and backend tests.
+
+Maintain a clean architecture and preserve existing working features throughout development.

@@ -1,0 +1,1201 @@
+symptoms,specialty
+swelling|palpitations|chest_pain|exertional_fatigue,Cardiology
+palpitations|swelling|exertional_fatigue,Cardiology
+exertional_fatigue|palpitations|swelling|chest_pain,Cardiology
+numbness|dizziness|vision_changes|headache|bloating,Neurology
+joint_pain|back_pain|muscle_pain|stiffness,Orthopedics
+muscle_pain|stiffness|dizziness,Orthopedics
+dizziness|headache,Neurology
+difficulty_breathing|ear_pain|sore_throat,General Medicine
+back_pain|joint_pain,Orthopedics
+numbness,Neurology
+dry_skin,Dermatology
+back_pain|stiffness,Orthopedics
+exertional_fatigue|swelling|stiffness,Cardiology
+vision_changes|dizziness|headache|numbness,Neurology
+difficulty_breathing|skin_rash,General Medicine
+heartburn|nausea,Gastroenterology
+headache|vision_changes|dizziness,Neurology
+fatigue|difficulty_breathing|sore_throat,General Medicine
+stomach_pain|nausea|heartburn,Gastroenterology
+exertional_fatigue|palpitations,Cardiology
+numbness|dizziness|headache|vision_changes,Neurology
+muscle_pain|joint_pain,Orthopedics
+stomach_pain|heartburn|bloating|nausea,Gastroenterology
+mole_change|skin_rash|palpitations,Dermatology
+ear_pain|cough,General Medicine
+joint_pain,Orthopedics
+dizziness|headache,Neurology
+sore_throat|sudden_weakness|fatigue,General Medicine
+vision_changes|headache|dizziness|numbness|swelling,Neurology
+mole_change|skin_rash|dry_skin|itching,Dermatology
+chest_pain|swelling,Cardiology
+mole_change|skin_rash|dry_skin,Dermatology
+stiffness,Orthopedics
+ear_pain|cough|sore_throat,General Medicine
+heartburn|stomach_pain|nausea,Gastroenterology
+dizziness,Neurology
+swelling|chest_pain|exertional_fatigue,Cardiology
+stiffness|back_pain|joint_pain|muscle_pain,Orthopedics
+palpitations|swelling|chest_pain|exertional_fatigue,Cardiology
+vision_changes|dizziness|headache,Neurology
+headache|vision_changes|dizziness|numbness,Neurology
+itching|back_pain,Dermatology
+muscle_pain|stiffness|back_pain,Orthopedics
+cough,General Medicine
+heartburn|bloating|nausea,Gastroenterology
+stiffness|muscle_pain|joint_pain|back_pain,Orthopedics
+dry_skin|mole_change|skin_rash|itching,Dermatology
+itching|dry_skin|mole_change,Dermatology
+chest_pain|swelling|palpitations,Cardiology
+muscle_pain|sudden_weakness,Orthopedics
+dry_skin|mole_change|skin_rash|itching,Dermatology
+bloating|nausea,Gastroenterology
+cough|fever|dry_skin,General Medicine
+chest_pain|stomach_pain,Cardiology
+chest_pain|palpitations|swelling,Cardiology
+skin_rash|mole_change,Dermatology
+stiffness|joint_pain|bloating,Orthopedics
+itching,Dermatology
+palpitations|exertional_fatigue|chest_pain,Cardiology
+cough|sore_throat|sudden_weakness,General Medicine
+exertional_fatigue|chest_pain|palpitations|bloating,Cardiology
+vision_changes|headache|dizziness|numbness|itching,Neurology
+mole_change|skin_rash|itching|dry_skin,Dermatology
+muscle_pain,Orthopedics
+sudden_weakness|fever,General Medicine
+skin_rash|dry_skin|mole_change|itching|back_pain,Dermatology
+nausea|dry_skin,Gastroenterology
+cough|sore_throat|nausea,General Medicine
+stiffness|muscle_pain|back_pain|joint_pain|fever,Orthopedics
+palpitations|exertional_fatigue|swelling,Cardiology
+mole_change,Dermatology
+stiffness|muscle_pain|joint_pain|back_pain,Orthopedics
+exertional_fatigue,Cardiology
+itching|mole_change|skin_rash|dry_skin,Dermatology
+nausea,Gastroenterology
+heartburn,Gastroenterology
+mole_change,Dermatology
+dizziness|vision_changes|numbness,Neurology
+joint_pain|muscle_pain|stiffness,Orthopedics
+vision_changes,Neurology
+dry_skin,Dermatology
+stiffness|back_pain,Orthopedics
+back_pain|joint_pain|stiffness,Orthopedics
+headache|dizziness|numbness|vision_changes,Neurology
+muscle_pain|stiffness,Orthopedics
+nausea|heartburn|stomach_pain,Gastroenterology
+stomach_pain|heartburn|nausea|bloating,Gastroenterology
+mole_change|skin_rash,Dermatology
+chest_pain|palpitations,Cardiology
+nausea|heartburn,Gastroenterology
+skin_rash|dry_skin|mole_change|stomach_pain,Dermatology
+dizziness|headache|numbness|vision_changes,Neurology
+itching|mole_change|skin_rash|dry_skin,Dermatology
+cough,General Medicine
+ear_pain|difficulty_breathing|fever,General Medicine
+palpitations|chest_pain|swelling,Cardiology
+swelling|chest_pain|exertional_fatigue|palpitations|vision_changes,Cardiology
+fever|difficulty_breathing|fatigue|cough,General Medicine
+stomach_pain,Gastroenterology
+heartburn,Gastroenterology
+dizziness|numbness|vision_changes,Neurology
+numbness,Neurology
+joint_pain|stiffness|back_pain|muscle_pain,Orthopedics
+sudden_weakness|difficulty_breathing,General Medicine
+ear_pain|sudden_weakness|nausea,General Medicine
+dry_skin|mole_change|skin_rash|itching,Dermatology
+swelling|exertional_fatigue|chest_pain|palpitations,Cardiology
+bloating|stomach_pain|nausea|heartburn,Gastroenterology
+heartburn|stomach_pain|nausea|bloating,Gastroenterology
+muscle_pain|back_pain|stiffness|joint_pain,Orthopedics
+stomach_pain,Gastroenterology
+difficulty_breathing|cough|fatigue|ear_pain,General Medicine
+bloating|heartburn|nausea|stomach_pain,Gastroenterology
+muscle_pain|stiffness|back_pain,Orthopedics
+muscle_pain,Orthopedics
+heartburn|stomach_pain|bloating,Gastroenterology
+skin_rash|mole_change|difficulty_breathing,Dermatology
+palpitations|swelling|exertional_fatigue|chest_pain,Cardiology
+palpitations|swelling|chest_pain|exertional_fatigue|dry_skin,Cardiology
+exertional_fatigue|swelling|palpitations|numbness,Cardiology
+sore_throat|fever|sudden_weakness|cough,General Medicine
+heartburn|nausea|stomach_pain,Gastroenterology
+cough|sudden_weakness|fever,General Medicine
+heartburn|nausea|bloating|stomach_pain,Gastroenterology
+exertional_fatigue,Cardiology
+sore_throat|cough|dizziness,General Medicine
+numbness|dizziness|headache|vision_changes|mole_change,Neurology
+headache|joint_pain,Neurology
+itching|dry_skin,Dermatology
+stomach_pain|heartburn,Gastroenterology
+heartburn|nausea|stomach_pain|difficulty_breathing,Gastroenterology
+back_pain|joint_pain,Orthopedics
+sudden_weakness|sore_throat|fatigue,General Medicine
+stiffness,Orthopedics
+stomach_pain|heartburn,Gastroenterology
+vision_changes|headache,Neurology
+dizziness|vision_changes|numbness,Neurology
+bloating|stomach_pain,Gastroenterology
+itching|dry_skin,Dermatology
+muscle_pain|joint_pain|stiffness|stomach_pain,Orthopedics
+stomach_pain|bloating|nausea,Gastroenterology
+back_pain|joint_pain,Orthopedics
+swelling|palpitations|exertional_fatigue|chest_pain,Cardiology
+numbness,Neurology
+palpitations|chest_pain|exertional_fatigue|headache,Cardiology
+numbness|headache|vision_changes,Neurology
+dizziness|vision_changes|headache,Neurology
+skin_rash|dry_skin|itching|mole_change,Dermatology
+numbness,Neurology
+fever|ear_pain|sore_throat|swelling,General Medicine
+back_pain|joint_pain|muscle_pain|stiffness,Orthopedics
+nausea|heartburn,Gastroenterology
+stiffness|back_pain|muscle_pain|joint_pain,Orthopedics
+mole_change|bloating,Dermatology
+stomach_pain,Gastroenterology
+dry_skin|mole_change,Dermatology
+palpitations,Cardiology
+back_pain|stiffness|joint_pain|muscle_pain|skin_rash,Orthopedics
+heartburn,Gastroenterology
+sore_throat|ear_pain|sudden_weakness,General Medicine
+stomach_pain|bloating|nausea|heartburn,Gastroenterology
+bloating,Gastroenterology
+vision_changes|headache|numbness,Neurology
+vision_changes|numbness|headache|dizziness,Neurology
+itching,Dermatology
+heartburn|bloating|stomach_pain|nausea,Gastroenterology
+chest_pain|exertional_fatigue,Cardiology
+heartburn|nausea|bloating|skin_rash,Gastroenterology
+stomach_pain|heartburn|nausea|bloating,Gastroenterology
+back_pain,Orthopedics
+cough|sudden_weakness|fatigue|difficulty_breathing,General Medicine
+joint_pain|palpitations,Orthopedics
+muscle_pain|back_pain|joint_pain,Orthopedics
+nausea|stomach_pain|heartburn|bloating,Gastroenterology
+joint_pain,Orthopedics
+fever|fatigue|cough,General Medicine
+back_pain|muscle_pain,Orthopedics
+headache|dizziness|numbness|vision_changes,Neurology
+stomach_pain|bloating|nausea|heartburn,Gastroenterology
+palpitations|exertional_fatigue|swelling|chest_pain,Cardiology
+stiffness|muscle_pain|back_pain,Orthopedics
+sore_throat|sudden_weakness|cough|fatigue,General Medicine
+ear_pain|fatigue|sudden_weakness|cough,General Medicine
+nausea|bloating|heartburn|stomach_pain,Gastroenterology
+ear_pain|fatigue,General Medicine
+dry_skin|mole_change|itching|skin_rash|stomach_pain,Dermatology
+sore_throat|sudden_weakness|fever,General Medicine
+vision_changes|headache,Neurology
+swelling|chest_pain,Cardiology
+headache|numbness|vision_changes|dizziness|swelling,Neurology
+sore_throat|cough|difficulty_breathing,General Medicine
+mole_change|dry_skin|skin_rash|sore_throat,Dermatology
+skin_rash|dry_skin|itching,Dermatology
+mole_change|skin_rash|back_pain,Dermatology
+dry_skin,Dermatology
+difficulty_breathing|fatigue|sudden_weakness|vision_changes,General Medicine
+heartburn|stomach_pain|bloating|headache,Gastroenterology
+dry_skin,Dermatology
+palpitations|exertional_fatigue|itching,Cardiology
+back_pain|stiffness|skin_rash,Orthopedics
+exertional_fatigue|chest_pain,Cardiology
+palpitations|swelling|chest_pain|exertional_fatigue,Cardiology
+muscle_pain,Orthopedics
+sudden_weakness,General Medicine
+vision_changes,Neurology
+dizziness|headache,Neurology
+itching|cough,Dermatology
+swelling,Cardiology
+dizziness,Neurology
+vision_changes|dizziness|numbness,Neurology
+skin_rash|dry_skin|itching,Dermatology
+mole_change|skin_rash|dry_skin,Dermatology
+dizziness|vision_changes|headache|numbness,Neurology
+palpitations|exertional_fatigue|swelling|chest_pain,Cardiology
+chest_pain|swelling|palpitations,Cardiology
+stomach_pain|heartburn|nausea,Gastroenterology
+stomach_pain|bloating|stiffness,Gastroenterology
+skin_rash|mole_change,Dermatology
+joint_pain|back_pain|muscle_pain|difficulty_breathing,Orthopedics
+skin_rash|dry_skin|itching,Dermatology
+numbness|headache|vision_changes,Neurology
+numbness|headache,Neurology
+ear_pain|difficulty_breathing|sore_throat|cough,General Medicine
+stomach_pain|difficulty_breathing,Gastroenterology
+difficulty_breathing|fever|cough|exertional_fatigue,General Medicine
+exertional_fatigue|chest_pain|palpitations|swelling,Cardiology
+bloating|nausea|stomach_pain|heartburn,Gastroenterology
+itching|dry_skin|skin_rash,Dermatology
+heartburn|bloating|nausea|stomach_pain,Gastroenterology
+stiffness|joint_pain|back_pain|muscle_pain,Orthopedics
+numbness|headache|dizziness|vision_changes|palpitations,Neurology
+joint_pain|heartburn,Orthopedics
+back_pain|fatigue,Orthopedics
+bloating|nausea|sudden_weakness,Gastroenterology
+heartburn|stomach_pain,Gastroenterology
+vision_changes|dizziness|numbness|headache|stomach_pain,Neurology
+itching,Dermatology
+stiffness|joint_pain|muscle_pain,Orthopedics
+palpitations|swelling|exertional_fatigue,Cardiology
+vision_changes|palpitations,Neurology
+joint_pain|muscle_pain|stiffness|back_pain,Orthopedics
+headache|swelling,Neurology
+headache|vision_changes|dizziness|numbness,Neurology
+vision_changes|dizziness|numbness,Neurology
+heartburn|bloating|nausea|stomach_pain,Gastroenterology
+vision_changes|headache|numbness|dizziness,Neurology
+exertional_fatigue|swelling|palpitations|chest_pain,Cardiology
+joint_pain|back_pain|dizziness,Orthopedics
+dizziness|vision_changes|headache,Neurology
+exertional_fatigue|chest_pain,Cardiology
+fever|difficulty_breathing,General Medicine
+exertional_fatigue|chest_pain|skin_rash,Cardiology
+stiffness,Orthopedics
+stiffness|muscle_pain,Orthopedics
+swelling|exertional_fatigue|chest_pain|palpitations|skin_rash,Cardiology
+heartburn|nausea,Gastroenterology
+skin_rash|mole_change,Dermatology
+heartburn|nausea|bloating|fever,Gastroenterology
+exertional_fatigue|swelling|palpitations|chest_pain,Cardiology
+exertional_fatigue,Cardiology
+chest_pain|exertional_fatigue,Cardiology
+dry_skin|itching|skin_rash|palpitations,Dermatology
+chest_pain|swelling|exertional_fatigue|palpitations,Cardiology
+itching|skin_rash,Dermatology
+stiffness,Orthopedics
+cough|fatigue,General Medicine
+bloating|nausea,Gastroenterology
+chest_pain|exertional_fatigue,Cardiology
+headache|numbness|vision_changes|dizziness,Neurology
+chest_pain|swelling,Cardiology
+palpitations|exertional_fatigue|chest_pain|swelling|headache,Cardiology
+stomach_pain|nausea|bloating|sore_throat,Gastroenterology
+difficulty_breathing|sore_throat|swelling,General Medicine
+fatigue|fever,General Medicine
+chest_pain|swelling|palpitations|exertional_fatigue|dizziness,Cardiology
+itching|skin_rash|mole_change|dry_skin,Dermatology
+stiffness|back_pain,Orthopedics
+numbness|headache|dizziness|vision_changes,Neurology
+palpitations|chest_pain|exertional_fatigue|swelling,Cardiology
+nausea|bloating|stomach_pain,Gastroenterology
+headache|numbness|vision_changes,Neurology
+palpitations|chest_pain|exertional_fatigue|swelling|heartburn,Cardiology
+stomach_pain|bloating|heartburn|nausea,Gastroenterology
+sudden_weakness|cough|sore_throat,General Medicine
+bloating|nausea|heartburn,Gastroenterology
+dizziness|numbness,Neurology
+mole_change,Dermatology
+dry_skin|skin_rash|itching,Dermatology
+back_pain|muscle_pain|swelling,Orthopedics
+muscle_pain|joint_pain|stiffness|back_pain,Orthopedics
+cough,General Medicine
+mole_change|dry_skin|itching,Dermatology
+nausea|bloating|heartburn,Gastroenterology
+skin_rash|dry_skin|mole_change,Dermatology
+dizziness|numbness|headache|swelling,Neurology
+nausea|stomach_pain|stiffness,Gastroenterology
+dry_skin|mole_change,Dermatology
+numbness|vision_changes|dizziness|sudden_weakness,Neurology
+muscle_pain|stiffness,Orthopedics
+ear_pain|fatigue|fever|cough,General Medicine
+dry_skin|mole_change|itching,Dermatology
+bloating|nausea,Gastroenterology
+fatigue|difficulty_breathing,General Medicine
+palpitations,Cardiology
+difficulty_breathing,General Medicine
+swelling|chest_pain|palpitations,Cardiology
+stiffness|back_pain,Orthopedics
+dizziness|vision_changes,Neurology
+back_pain|stiffness|muscle_pain,Orthopedics
+dry_skin|skin_rash,Dermatology
+swelling|chest_pain|palpitations,Cardiology
+heartburn,Gastroenterology
+difficulty_breathing|fever|sore_throat|sudden_weakness,General Medicine
+chest_pain|exertional_fatigue|palpitations,Cardiology
+dizziness,Neurology
+exertional_fatigue|swelling,Cardiology
+difficulty_breathing|ear_pain|sudden_weakness,General Medicine
+dry_skin,Dermatology
+fatigue,General Medicine
+back_pain|muscle_pain|cough,Orthopedics
+itching,Dermatology
+dry_skin,Dermatology
+skin_rash,Dermatology
+back_pain|joint_pain|stiffness|muscle_pain,Orthopedics
+skin_rash,Dermatology
+muscle_pain|stiffness,Orthopedics
+fever,General Medicine
+vision_changes|numbness|dizziness,Neurology
+heartburn|bloating|nausea,Gastroenterology
+itching|skin_rash|mole_change|bloating,Dermatology
+headache,Neurology
+palpitations|chest_pain|swelling|exertional_fatigue|nausea,Cardiology
+itching|dry_skin|swelling,Dermatology
+joint_pain|stiffness|back_pain|muscle_pain,Orthopedics
+muscle_pain|back_pain,Orthopedics
+ear_pain|cough|sore_throat,General Medicine
+bloating,Gastroenterology
+vision_changes|dizziness,Neurology
+itching|mole_change|skin_rash|dry_skin|ear_pain,Dermatology
+chest_pain|palpitations|swelling,Cardiology
+joint_pain,Orthopedics
+swelling|skin_rash,Cardiology
+bloating|heartburn|nausea|stomach_pain,Gastroenterology
+stiffness|muscle_pain|joint_pain|back_pain,Orthopedics
+skin_rash|dry_skin|chest_pain,Dermatology
+headache,Neurology
+stomach_pain,Gastroenterology
+bloating|heartburn|stomach_pain|nausea,Gastroenterology
+headache|vision_changes,Neurology
+mole_change|itching|skin_rash|dry_skin,Dermatology
+palpitations,Cardiology
+headache|swelling,Neurology
+difficulty_breathing,General Medicine
+bloating,Gastroenterology
+palpitations,Cardiology
+dry_skin|skin_rash|stiffness,Dermatology
+stiffness|exertional_fatigue,Orthopedics
+numbness|headache|vision_changes|fever,Neurology
+fever|ear_pain|sore_throat,General Medicine
+stiffness|bloating,Orthopedics
+nausea|stomach_pain|heartburn|muscle_pain,Gastroenterology
+vision_changes|headache|numbness|dizziness,Neurology
+numbness|headache|vision_changes|dizziness,Neurology
+dizziness|numbness,Neurology
+nausea,Gastroenterology
+bloating|heartburn|nausea,Gastroenterology
+cough|sore_throat|fatigue|difficulty_breathing,General Medicine
+palpitations|chest_pain|swelling,Cardiology
+swelling|exertional_fatigue|palpitations|chest_pain|nausea,Cardiology
+muscle_pain|back_pain|joint_pain|dry_skin,Orthopedics
+dizziness,Neurology
+palpitations|swelling|exertional_fatigue|fever,Cardiology
+muscle_pain|stiffness|back_pain|difficulty_breathing,Orthopedics
+numbness,Neurology
+stiffness|stomach_pain,Orthopedics
+stiffness,Orthopedics
+stiffness|muscle_pain|joint_pain|back_pain,Orthopedics
+numbness,Neurology
+muscle_pain|joint_pain|stiffness,Orthopedics
+headache|sore_throat,Neurology
+skin_rash|mole_change|dry_skin|itching,Dermatology
+chest_pain|exertional_fatigue|swelling|palpitations,Cardiology
+bloating|stomach_pain|nausea,Gastroenterology
+heartburn|bloating,Gastroenterology
+numbness,Neurology
+headache|vision_changes|difficulty_breathing,Neurology
+vision_changes,Neurology
+back_pain,Orthopedics
+heartburn|stomach_pain|bloating|nausea,Gastroenterology
+headache,Neurology
+numbness|dizziness|vision_changes|headache,Neurology
+skin_rash|dry_skin|itching|stomach_pain,Dermatology
+joint_pain,Orthopedics
+exertional_fatigue|palpitations|chest_pain|swelling|mole_change,Cardiology
+ear_pain|fatigue,General Medicine
+dry_skin|mole_change|itching|skin_rash,Dermatology
+back_pain,Orthopedics
+muscle_pain,Orthopedics
+sudden_weakness,General Medicine
+stiffness|muscle_pain|sore_throat,Orthopedics
+itching|skin_rash|mole_change|headache,Dermatology
+sudden_weakness|difficulty_breathing|cough|sore_throat,General Medicine
+headache,Neurology
+exertional_fatigue|swelling|palpitations|muscle_pain,Cardiology
+palpitations,Cardiology
+joint_pain|sore_throat,Orthopedics
+itching|dry_skin|vision_changes,Dermatology
+swelling,Cardiology
+vision_changes,Neurology
+chest_pain,Cardiology
+dizziness|headache|vision_changes|numbness,Neurology
+fatigue|difficulty_breathing|sore_throat|ear_pain,General Medicine
+palpitations|chest_pain,Cardiology
+muscle_pain|stiffness|joint_pain|back_pain,Orthopedics
+heartburn|stomach_pain,Gastroenterology
+swelling|chest_pain,Cardiology
+muscle_pain|skin_rash,Orthopedics
+mole_change|skin_rash|itching|dry_skin,Dermatology
+stiffness|back_pain,Orthopedics
+heartburn|nausea,Gastroenterology
+cough|sudden_weakness|difficulty_breathing,General Medicine
+nausea|heartburn|stomach_pain|bloating,Gastroenterology
+chest_pain|palpitations|exertional_fatigue|swelling,Cardiology
+vision_changes|headache|numbness,Neurology
+dizziness|numbness|vision_changes,Neurology
+bloating|nausea,Gastroenterology
+swelling|palpitations|chest_pain,Cardiology
+dizziness,Neurology
+headache|numbness|vision_changes,Neurology
+stomach_pain|sore_throat,Gastroenterology
+palpitations|chest_pain,Cardiology
+bloating,Gastroenterology
+ear_pain|dizziness,General Medicine
+ear_pain|fatigue,General Medicine
+dizziness|headache,Neurology
+difficulty_breathing|cough|ear_pain,General Medicine
+itching|dry_skin|skin_rash|mole_change,Dermatology
+sore_throat|cough,General Medicine
+itching,Dermatology
+numbness|vision_changes|headache,Neurology
+mole_change|skin_rash,Dermatology
+itching|skin_rash|mole_change|dry_skin|fatigue,Dermatology
+dizziness|vision_changes|headache,Neurology
+heartburn|bloating,Gastroenterology
+difficulty_breathing|sore_throat,General Medicine
+exertional_fatigue|chest_pain|palpitations,Cardiology
+heartburn|nausea|stomach_pain|bloating,Gastroenterology
+skin_rash|itching|dry_skin|mole_change,Dermatology
+joint_pain,Orthopedics
+headache|vision_changes|numbness,Neurology
+dizziness|numbness|vision_changes|headache,Neurology
+ear_pain|skin_rash,General Medicine
+vision_changes,Neurology
+cough|ear_pain|fever|exertional_fatigue,General Medicine
+back_pain|joint_pain|stiffness|muscle_pain,Orthopedics
+itching|mole_change|skin_rash|dry_skin,Dermatology
+muscle_pain|joint_pain|mole_change,Orthopedics
+ear_pain|cough|difficulty_breathing,General Medicine
+swelling|palpitations|exertional_fatigue,Cardiology
+itching|dry_skin|skin_rash|mole_change,Dermatology
+dizziness|vision_changes|headache,Neurology
+nausea|bloating|joint_pain,Gastroenterology
+stomach_pain|bloating|nausea,Gastroenterology
+vision_changes,Neurology
+itching|dry_skin|skin_rash|mole_change,Dermatology
+chest_pain,Cardiology
+dizziness|headache|difficulty_breathing,Neurology
+stiffness|joint_pain|muscle_pain,Orthopedics
+skin_rash|mole_change,Dermatology
+vision_changes|headache|dizziness|numbness,Neurology
+exertional_fatigue,Cardiology
+headache|numbness|dizziness|vision_changes,Neurology
+back_pain,Orthopedics
+exertional_fatigue|swelling|palpitations|chest_pain|mole_change,Cardiology
+exertional_fatigue,Cardiology
+muscle_pain|headache,Orthopedics
+exertional_fatigue|palpitations|chest_pain|swelling,Cardiology
+sore_throat|cough|fever,General Medicine
+heartburn|nausea|bloating|sore_throat,Gastroenterology
+stiffness|joint_pain|back_pain|muscle_pain,Orthopedics
+bloating|stomach_pain|heartburn|nausea,Gastroenterology
+fever|sore_throat|sudden_weakness|ear_pain,General Medicine
+chest_pain|swelling|exertional_fatigue|palpitations,Cardiology
+itching|mole_change|dry_skin,Dermatology
+muscle_pain|stiffness|joint_pain|back_pain,Orthopedics
+dry_skin|mole_change|itching,Dermatology
+muscle_pain|back_pain|joint_pain,Orthopedics
+numbness|vision_changes,Neurology
+joint_pain|stiffness,Orthopedics
+headache|dizziness|numbness,Neurology
+cough|sudden_weakness|fatigue|ear_pain,General Medicine
+sore_throat,General Medicine
+headache|vision_changes|dizziness|numbness|joint_pain,Neurology
+palpitations|chest_pain,Cardiology
+skin_rash|stomach_pain,Dermatology
+sore_throat|muscle_pain,General Medicine
+palpitations|difficulty_breathing,Cardiology
+muscle_pain|joint_pain|stiffness,Orthopedics
+skin_rash,Dermatology
+chest_pain|exertional_fatigue,Cardiology
+chest_pain,Cardiology
+difficulty_breathing|fever|sore_throat,General Medicine
+joint_pain|stiffness|palpitations,Orthopedics
+dizziness|numbness,Neurology
+palpitations|skin_rash,Cardiology
+mole_change|skin_rash|stomach_pain,Dermatology
+difficulty_breathing|ear_pain|stomach_pain,General Medicine
+palpitations|swelling|chest_pain|exertional_fatigue,Cardiology
+nausea|bloating|stomach_pain|heartburn,Gastroenterology
+nausea|bloating,Gastroenterology
+stomach_pain|nausea|bloating|heartburn,Gastroenterology
+bloating,Gastroenterology
+palpitations|chest_pain,Cardiology
+dry_skin|mole_change,Dermatology
+joint_pain|back_pain|muscle_pain|stiffness,Orthopedics
+numbness,Neurology
+back_pain|stiffness|joint_pain|muscle_pain,Orthopedics
+palpitations,Cardiology
+sudden_weakness|fatigue,General Medicine
+heartburn|bloating,Gastroenterology
+nausea,Gastroenterology
+swelling,Cardiology
+nausea|bloating,Gastroenterology
+cough,General Medicine
+back_pain|vision_changes,Orthopedics
+skin_rash|itching,Dermatology
+nausea|bloating,Gastroenterology
+mole_change|heartburn,Dermatology
+palpitations|chest_pain|swelling|exertional_fatigue,Cardiology
+dry_skin|skin_rash,Dermatology
+heartburn|bloating|nausea|stomach_pain,Gastroenterology
+cough|difficulty_breathing|sudden_weakness|ear_pain|dry_skin,General Medicine
+skin_rash|mole_change|dry_skin|itching|muscle_pain,Dermatology
+ear_pain|fever|cough|difficulty_breathing,General Medicine
+nausea|heartburn|bloating|exertional_fatigue,Gastroenterology
+headache|dizziness,Neurology
+heartburn|nausea|bloating|stomach_pain|joint_pain,Gastroenterology
+mole_change,Dermatology
+palpitations,Cardiology
+back_pain|muscle_pain,Orthopedics
+back_pain|joint_pain|stiffness,Orthopedics
+heartburn|stomach_pain|nausea,Gastroenterology
+numbness|vision_changes|dizziness|headache,Neurology
+muscle_pain|joint_pain|dizziness,Orthopedics
+fever|cough|ear_pain|stomach_pain,General Medicine
+numbness|headache|dizziness,Neurology
+skin_rash|itching|dry_skin,Dermatology
+palpitations|swelling,Cardiology
+bloating|heartburn|nausea,Gastroenterology
+palpitations|exertional_fatigue|chest_pain|swelling,Cardiology
+muscle_pain,Orthopedics
+exertional_fatigue|chest_pain|mole_change,Cardiology
+back_pain|muscle_pain,Orthopedics
+swelling|exertional_fatigue,Cardiology
+palpitations|exertional_fatigue|swelling|chest_pain|dizziness,Cardiology
+bloating|heartburn|nausea|stomach_pain,Gastroenterology
+dizziness|numbness,Neurology
+stomach_pain|nausea|heartburn|joint_pain,Gastroenterology
+dizziness|numbness|vision_changes,Neurology
+sore_throat|dizziness,General Medicine
+numbness,Neurology
+bloating|nausea|heartburn|stomach_pain,Gastroenterology
+vision_changes|dry_skin,Neurology
+heartburn|bloating|stomach_pain,Gastroenterology
+bloating|nausea|heartburn|stomach_pain|exertional_fatigue,Gastroenterology
+itching,Dermatology
+sore_throat|cough|fatigue|fever,General Medicine
+dry_skin|itching|skin_rash|mole_change,Dermatology
+exertional_fatigue|swelling,Cardiology
+chest_pain|exertional_fatigue,Cardiology
+palpitations|exertional_fatigue|chest_pain,Cardiology
+vision_changes|dizziness|headache,Neurology
+nausea|bloating|cough,Gastroenterology
+dizziness,Neurology
+headache|dizziness|back_pain,Neurology
+numbness|dizziness|vision_changes|headache,Neurology
+difficulty_breathing|sore_throat,General Medicine
+exertional_fatigue|palpitations|swelling|chest_pain,Cardiology
+sudden_weakness|fatigue|cough|ear_pain|vision_changes,General Medicine
+sore_throat,General Medicine
+stiffness|joint_pain|back_pain|dizziness,Orthopedics
+palpitations,Cardiology
+joint_pain|muscle_pain|back_pain,Orthopedics
+headache,Neurology
+palpitations|swelling|exertional_fatigue,Cardiology
+chest_pain|swelling|exertional_fatigue|vision_changes,Cardiology
+muscle_pain|stiffness|difficulty_breathing,Orthopedics
+dizziness,Neurology
+joint_pain|back_pain|muscle_pain|stiffness,Orthopedics
+fever|cough,General Medicine
+heartburn,Gastroenterology
+numbness,Neurology
+vision_changes|dizziness,Neurology
+dry_skin|skin_rash|itching|bloating,Dermatology
+stomach_pain|bloating,Gastroenterology
+vision_changes|headache|dizziness|dry_skin,Neurology
+cough|fever|sore_throat|dry_skin,General Medicine
+heartburn,Gastroenterology
+sudden_weakness|ear_pain|sore_throat,General Medicine
+heartburn|stomach_pain|bloating|nausea,Gastroenterology
+palpitations|exertional_fatigue|swelling|chest_pain|dry_skin,Cardiology
+headache|numbness,Neurology
+mole_change,Dermatology
+dizziness|numbness,Neurology
+dry_skin,Dermatology
+itching|muscle_pain,Dermatology
+muscle_pain|back_pain|itching,Orthopedics
+stiffness|back_pain|palpitations,Orthopedics
+back_pain|muscle_pain,Orthopedics
+sore_throat|difficulty_breathing|ear_pain,General Medicine
+palpitations|swelling|exertional_fatigue|chest_pain,Cardiology
+swelling|skin_rash,Cardiology
+ear_pain|sudden_weakness|difficulty_breathing|sore_throat|itching,General Medicine
+muscle_pain,Orthopedics
+numbness|dizziness,Neurology
+palpitations|chest_pain|swelling|exertional_fatigue|fatigue,Cardiology
+sore_throat|fatigue|fever,General Medicine
+exertional_fatigue,Cardiology
+nausea|heartburn|bloating,Gastroenterology
+fatigue|fever|sudden_weakness|sore_throat,General Medicine
+back_pain|joint_pain|stiffness,Orthopedics
+skin_rash|mole_change,Dermatology
+numbness|dizziness|headache,Neurology
+itching|mole_change|skin_rash|dry_skin,Dermatology
+stomach_pain|nausea,Gastroenterology
+joint_pain|back_pain,Orthopedics
+nausea|heartburn,Gastroenterology
+swelling|chest_pain|exertional_fatigue,Cardiology
+joint_pain|stiffness|cough,Orthopedics
+muscle_pain|numbness,Orthopedics
+joint_pain|back_pain,Orthopedics
+headache|vision_changes|numbness|dry_skin,Neurology
+headache|numbness|dizziness,Neurology
+swelling|palpitations,Cardiology
+sore_throat|sudden_weakness|fatigue|ear_pain,General Medicine
+stiffness|muscle_pain,Orthopedics
+joint_pain,Orthopedics
+bloating|nausea,Gastroenterology
+ear_pain|cough,General Medicine
+dry_skin|mole_change|back_pain,Dermatology
+dizziness|vision_changes,Neurology
+bloating|sore_throat,Gastroenterology
+numbness,Neurology
+stiffness|joint_pain|muscle_pain,Orthopedics
+numbness|headache|vision_changes,Neurology
+palpitations|exertional_fatigue|swelling,Cardiology
+dizziness|numbness|headache|vision_changes,Neurology
+stomach_pain|heartburn|bloating,Gastroenterology
+headache|exertional_fatigue,Neurology
+difficulty_breathing|ear_pain|cough|palpitations,General Medicine
+cough,General Medicine
+mole_change,Dermatology
+sore_throat|fatigue|cough,General Medicine
+swelling,Cardiology
+palpitations|chest_pain|swelling|exertional_fatigue|dizziness,Cardiology
+dizziness|heartburn,Neurology
+swelling|exertional_fatigue,Cardiology
+itching|dry_skin|mole_change,Dermatology
+headache|vision_changes,Neurology
+exertional_fatigue|chest_pain|sore_throat,Cardiology
+numbness|dizziness|headache,Neurology
+headache|dizziness|numbness,Neurology
+skin_rash,Dermatology
+nausea|bloating,Gastroenterology
+dizziness|numbness,Neurology
+numbness,Neurology
+joint_pain|stiffness|back_pain|muscle_pain,Orthopedics
+fatigue,General Medicine
+muscle_pain|back_pain,Orthopedics
+joint_pain|muscle_pain|stiffness|back_pain|chest_pain,Orthopedics
+nausea|stomach_pain|bloating|heartburn,Gastroenterology
+fatigue|cough|fever|sudden_weakness,General Medicine
+sore_throat|cough|fever|sudden_weakness|numbness,General Medicine
+sore_throat|ear_pain,General Medicine
+vision_changes|dizziness|headache,Neurology
+sore_throat|difficulty_breathing,General Medicine
+fever|sudden_weakness|difficulty_breathing|fatigue|bloating,General Medicine
+dry_skin|skin_rash,Dermatology
+swelling|chest_pain,Cardiology
+chest_pain|swelling|mole_change,Cardiology
+numbness|dizziness|vision_changes|headache,Neurology
+joint_pain|stiffness|back_pain|muscle_pain,Orthopedics
+heartburn|stomach_pain|bloating|fatigue,Gastroenterology
+cough,General Medicine
+stomach_pain|nausea|heartburn,Gastroenterology
+sore_throat|fatigue|cough|difficulty_breathing,General Medicine
+chest_pain|exertional_fatigue,Cardiology
+swelling|palpitations|exertional_fatigue|chest_pain|stiffness,Cardiology
+exertional_fatigue|numbness,Cardiology
+chest_pain,Cardiology
+back_pain|muscle_pain|stiffness,Orthopedics
+muscle_pain|back_pain|stiffness|chest_pain,Orthopedics
+heartburn,Gastroenterology
+vision_changes|dizziness|numbness,Neurology
+itching|dry_skin|mole_change,Dermatology
+palpitations|exertional_fatigue|mole_change,Cardiology
+headache|dizziness|numbness|sore_throat,Neurology
+nausea|heartburn|stomach_pain|bloating,Gastroenterology
+muscle_pain|joint_pain|stiffness,Orthopedics
+headache|numbness|vision_changes|fatigue,Neurology
+stomach_pain|bloating|nausea|heartburn|back_pain,Gastroenterology
+cough|fatigue,General Medicine
+exertional_fatigue|swelling|palpitations|chest_pain|fever,Cardiology
+heartburn|bloating|nausea|stomach_pain|stiffness,Gastroenterology
+vision_changes|dizziness|headache|numbness,Neurology
+stiffness|joint_pain|muscle_pain|back_pain|sudden_weakness,Orthopedics
+bloating|heartburn|nausea|numbness,Gastroenterology
+headache,Neurology
+difficulty_breathing|fatigue|ear_pain|sore_throat,General Medicine
+joint_pain|back_pain|muscle_pain|headache,Orthopedics
+fever|difficulty_breathing,General Medicine
+sore_throat|heartburn,General Medicine
+chest_pain|joint_pain,Cardiology
+joint_pain,Orthopedics
+vision_changes|dizziness|numbness|fever,Neurology
+palpitations|chest_pain|swelling|exertional_fatigue,Cardiology
+nausea|heartburn|bloating,Gastroenterology
+palpitations|swelling|chest_pain|exertional_fatigue,Cardiology
+exertional_fatigue|swelling|palpitations|chest_pain,Cardiology
+fever,General Medicine
+stiffness|back_pain,Orthopedics
+heartburn|nausea,Gastroenterology
+skin_rash|dry_skin|exertional_fatigue,Dermatology
+dry_skin|skin_rash|itching,Dermatology
+dizziness|headache|vision_changes|numbness,Neurology
+mole_change|itching|dry_skin,Dermatology
+fatigue,General Medicine
+chest_pain|exertional_fatigue|palpitations|swelling,Cardiology
+fatigue|cough,General Medicine
+fever|fatigue|ear_pain|sudden_weakness,General Medicine
+muscle_pain|back_pain,Orthopedics
+swelling|palpitations|chest_pain,Cardiology
+dizziness|skin_rash,Neurology
+nausea|bloating|heartburn|stomach_pain,Gastroenterology
+joint_pain|back_pain|swelling,Orthopedics
+bloating|stomach_pain|nausea|heartburn,Gastroenterology
+sudden_weakness|fever,General Medicine
+heartburn|bloating|nausea|stomach_pain|swelling,Gastroenterology
+cough|difficulty_breathing|sore_throat,General Medicine
+headache|dizziness,Neurology
+difficulty_breathing|fatigue|cough|sudden_weakness,General Medicine
+stiffness|back_pain|joint_pain|muscle_pain,Orthopedics
+swelling|chest_pain,Cardiology
+heartburn|bloating,Gastroenterology
+fever|cough|sore_throat,General Medicine
+skin_rash|itching|mole_change|dry_skin|muscle_pain,Dermatology
+skin_rash|dry_skin|itching|mole_change|stiffness,Dermatology
+swelling|chest_pain|exertional_fatigue,Cardiology
+skin_rash|mole_change|dry_skin|itching,Dermatology
+numbness|dizziness|dry_skin,Neurology
+dry_skin|skin_rash|mole_change|itching,Dermatology
+vision_changes|dizziness|numbness,Neurology
+nausea|bloating,Gastroenterology
+vision_changes|dizziness,Neurology
+heartburn,Gastroenterology
+vision_changes|numbness|dizziness|headache|mole_change,Neurology
+back_pain|stiffness,Orthopedics
+itching|skin_rash|mole_change|dry_skin,Dermatology
+dizziness|headache|numbness|dry_skin,Neurology
+back_pain|muscle_pain|sore_throat,Orthopedics
+bloating,Gastroenterology
+joint_pain|stiffness|back_pain|muscle_pain,Orthopedics
+fatigue|sudden_weakness|fever,General Medicine
+skin_rash|dry_skin|vision_changes,Dermatology
+palpitations,Cardiology
+fever|vision_changes,General Medicine
+itching|dry_skin,Dermatology
+palpitations|swelling|sore_throat,Cardiology
+itching|dry_skin,Dermatology
+dry_skin|mole_change|itching,Dermatology
+heartburn|bloating|stomach_pain|nausea,Gastroenterology
+dizziness|headache|vision_changes,Neurology
+heartburn|stomach_pain|cough,Gastroenterology
+itching|skin_rash|dry_skin|mole_change,Dermatology
+cough|dizziness,General Medicine
+difficulty_breathing|fever,General Medicine
+chest_pain|swelling|palpitations|headache,Cardiology
+fatigue|sudden_weakness|sore_throat|ear_pain,General Medicine
+nausea|bloating|stomach_pain|heartburn,Gastroenterology
+bloating|nausea|stomach_pain|heartburn|vision_changes,Gastroenterology
+itching|dizziness,Dermatology
+back_pain,Orthopedics
+cough|ear_pain|fatigue,General Medicine
+itching|skin_rash|mole_change,Dermatology
+nausea,Gastroenterology
+skin_rash|mole_change|itching|dry_skin|headache,Dermatology
+dizziness|headache|numbness,Neurology
+back_pain|stiffness|joint_pain|muscle_pain,Orthopedics
+heartburn|nausea|bloating,Gastroenterology
+nausea,Gastroenterology
+nausea,Gastroenterology
+nausea|heartburn,Gastroenterology
+back_pain,Orthopedics
+dry_skin|mole_change|itching|skin_rash,Dermatology
+heartburn|bloating|stomach_pain,Gastroenterology
+stiffness|joint_pain|back_pain|muscle_pain|vision_changes,Orthopedics
+muscle_pain|joint_pain|stiffness|back_pain|itching,Orthopedics
+cough|joint_pain,General Medicine
+stomach_pain|bloating,Gastroenterology
+vision_changes|numbness|dizziness,Neurology
+stomach_pain|fatigue,Gastroenterology
+numbness|headache|vision_changes,Neurology
+bloating|nausea|heartburn|stomach_pain,Gastroenterology
+nausea|stomach_pain|fever,Gastroenterology
+itching|mole_change|skin_rash|fever,Dermatology
+skin_rash|mole_change|itching,Dermatology
+skin_rash|itching,Dermatology
+stiffness,Orthopedics
+bloating|heartburn|stomach_pain,Gastroenterology
+stiffness|back_pain,Orthopedics
+stiffness,Orthopedics
+palpitations|chest_pain,Cardiology
+stomach_pain,Gastroenterology
+itching,Dermatology
+dry_skin|itching,Dermatology
+dizziness|fever,Neurology
+chest_pain|swelling|exertional_fatigue,Cardiology
+heartburn|nausea|bloating,Gastroenterology
+back_pain|stiffness,Orthopedics
+dizziness,Neurology
+back_pain|joint_pain,Orthopedics
+vision_changes|dizziness|headache,Neurology
+joint_pain|muscle_pain|difficulty_breathing,Orthopedics
+bloating|stomach_pain|heartburn,Gastroenterology
+cough|stomach_pain,General Medicine
+swelling|exertional_fatigue,Cardiology
+palpitations|exertional_fatigue|chest_pain|swelling,Cardiology
+mole_change|skin_rash|itching,Dermatology
+nausea|bloating|stomach_pain|swelling,Gastroenterology
+fatigue|ear_pain|difficulty_breathing|cough,General Medicine
+exertional_fatigue|dry_skin,Cardiology
+exertional_fatigue|chest_pain|swelling|palpitations,Cardiology
+itching|mole_change|skin_rash|cough,Dermatology
+chest_pain|palpitations|swelling|exertional_fatigue,Cardiology
+dizziness|vision_changes|headache,Neurology
+stiffness,Orthopedics
+muscle_pain|joint_pain|stiffness|back_pain,Orthopedics
+dizziness|numbness,Neurology
+joint_pain,Orthopedics
+skin_rash|dry_skin|itching,Dermatology
+vision_changes|dizziness|headache|numbness,Neurology
+muscle_pain|ear_pain,Orthopedics
+difficulty_breathing,General Medicine
+dry_skin,Dermatology
+vision_changes,Neurology
+back_pain,Orthopedics
+stomach_pain|bloating|heartburn|nausea|joint_pain,Gastroenterology
+exertional_fatigue|swelling,Cardiology
+back_pain|muscle_pain|joint_pain|stiffness,Orthopedics
+skin_rash|dry_skin,Dermatology
+fatigue|fever|sore_throat|skin_rash,General Medicine
+mole_change|skin_rash|headache,Dermatology
+cough|difficulty_breathing|ear_pain,General Medicine
+exertional_fatigue|chest_pain|palpitations,Cardiology
+fever|fatigue|sore_throat,General Medicine
+chest_pain|exertional_fatigue,Cardiology
+bloating|stomach_pain|nausea,Gastroenterology
+skin_rash|mole_change,Dermatology
+difficulty_breathing|fever|fatigue,General Medicine
+nausea|stomach_pain|bloating|heartburn,Gastroenterology
+vision_changes|headache|numbness,Neurology
+difficulty_breathing|sudden_weakness|fatigue|cough,General Medicine
+chest_pain|swelling|exertional_fatigue|palpitations,Cardiology
+exertional_fatigue|swelling|palpitations|chest_pain,Cardiology
+chest_pain|fatigue,Cardiology
+dizziness|fever,Neurology
+stomach_pain,Gastroenterology
+chest_pain|exertional_fatigue|bloating,Cardiology
+sudden_weakness|fever|fatigue,General Medicine
+numbness,Neurology
+nausea|heartburn|bloating|stomach_pain,Gastroenterology
+mole_change|skin_rash|dry_skin|itching,Dermatology
+dizziness|vision_changes|numbness,Neurology
+stiffness,Orthopedics
+joint_pain|chest_pain,Orthopedics
+itching,Dermatology
+stomach_pain|bloating|dry_skin,Gastroenterology
+mole_change,Dermatology
+fatigue|fever,General Medicine
+skin_rash|dry_skin|itching,Dermatology
+skin_rash|dry_skin|itching,Dermatology
+headache|dizziness|nausea,Neurology
+difficulty_breathing|cough,General Medicine
+muscle_pain|joint_pain,Orthopedics
+swelling,Cardiology
+skin_rash|dry_skin|mole_change|chest_pain,Dermatology
+vision_changes,Neurology
+chest_pain|exertional_fatigue|swelling,Cardiology
+muscle_pain|stiffness|back_pain,Orthopedics
+itching|mole_change|skin_rash,Dermatology
+fatigue|fever,General Medicine
+sudden_weakness,General Medicine
+skin_rash|mole_change,Dermatology
+vision_changes|numbness|headache|dizziness,Neurology
+stiffness|headache,Orthopedics
+itching|dry_skin|skin_rash|mole_change,Dermatology
+swelling|exertional_fatigue|chest_pain,Cardiology
+bloating,Gastroenterology
+skin_rash|mole_change|itching|dry_skin,Dermatology
+fever|sudden_weakness,General Medicine
+headache|vision_changes|numbness|dry_skin,Neurology
+cough|ear_pain,General Medicine
+stiffness,Orthopedics
+exertional_fatigue|swelling|chest_pain|palpitations,Cardiology
+swelling,Cardiology
+ear_pain|heartburn,General Medicine
+dry_skin|skin_rash|itching|joint_pain,Dermatology
+difficulty_breathing|sudden_weakness,General Medicine
+heartburn|bloating|nausea,Gastroenterology
+chest_pain|cough,Cardiology
+stomach_pain|heartburn|vision_changes,Gastroenterology
+heartburn|bloating|stomach_pain,Gastroenterology
+swelling|palpitations|chest_pain|exertional_fatigue|back_pain,Cardiology
+cough|ear_pain|stiffness,General Medicine
+joint_pain|back_pain|muscle_pain,Orthopedics
+mole_change|skin_rash,Dermatology
+numbness,Neurology
+palpitations|dry_skin,Cardiology
+itching,Dermatology
+itching|dry_skin|mole_change|ear_pain,Dermatology
+exertional_fatigue,Cardiology
+skin_rash|mole_change|ear_pain,Dermatology
+vision_changes,Neurology
+bloating|stomach_pain,Gastroenterology
+chest_pain|swelling|fatigue,Cardiology
+dry_skin|mole_change|skin_rash,Dermatology
+skin_rash,Dermatology
+stiffness|back_pain,Orthopedics
+stiffness|joint_pain|muscle_pain|back_pain,Orthopedics
+heartburn,Gastroenterology
+difficulty_breathing|sudden_weakness|fatigue,General Medicine
+nausea|cough,Gastroenterology
+heartburn|bloating|stomach_pain,Gastroenterology
+exertional_fatigue,Cardiology
+palpitations|exertional_fatigue|chest_pain,Cardiology
+dizziness|numbness,Neurology
+nausea|stomach_pain|fatigue,Gastroenterology
+sore_throat|ear_pain|fever|cough,General Medicine
+skin_rash|mole_change,Dermatology
+sudden_weakness|fever,General Medicine
+exertional_fatigue|palpitations,Cardiology
+muscle_pain|back_pain|joint_pain|stiffness,Orthopedics
+headache,Neurology
+back_pain,Orthopedics
+cough|fever,General Medicine
+fatigue|fever|ear_pain|swelling,General Medicine
+vision_changes|itching,Neurology
+stomach_pain|itching,Gastroenterology
+mole_change|skin_rash|dry_skin,Dermatology
+dizziness|numbness|ear_pain,Neurology
+joint_pain|back_pain|muscle_pain,Orthopedics
+dry_skin,Dermatology
+dizziness|headache|numbness|exertional_fatigue,Neurology
+dizziness|numbness|headache|vision_changes,Neurology
+skin_rash|itching,Dermatology
+muscle_pain|joint_pain,Orthopedics
+joint_pain|back_pain,Orthopedics
+stiffness|muscle_pain|back_pain,Orthopedics
+itching|skin_rash|dry_skin|joint_pain,Dermatology
+chest_pain|swelling|exertional_fatigue|palpitations,Cardiology
+heartburn|joint_pain,Gastroenterology
+headache|numbness,Neurology
+muscle_pain|stiffness,Orthopedics
+itching|dry_skin|mole_change,Dermatology
+dizziness|cough,Neurology
+numbness|vision_changes|headache,Neurology
+muscle_pain|joint_pain|stiffness|back_pain,Orthopedics
+heartburn|stomach_pain|bloating|nausea|chest_pain,Gastroenterology
+muscle_pain|stiffness|back_pain|joint_pain,Orthopedics
+difficulty_breathing,General Medicine
+muscle_pain,Orthopedics
+nausea,Gastroenterology
+nausea,Gastroenterology
+swelling|palpitations|chest_pain|exertional_fatigue,Cardiology
+headache|dizziness,Neurology
+swelling|palpitations|stomach_pain,Cardiology
+fatigue|difficulty_breathing|ear_pain|cough|itching,General Medicine
+dry_skin|skin_rash|mole_change,Dermatology
+skin_rash|dry_skin,Dermatology
+dry_skin|skin_rash|itching|mole_change|cough,Dermatology
+numbness,Neurology
+cough|sudden_weakness,General Medicine
+fever|fatigue|sudden_weakness|sore_throat,General Medicine
+difficulty_breathing|cough,General Medicine
+exertional_fatigue,Cardiology
+dizziness|numbness,Neurology
+mole_change|skin_rash|itching,Dermatology
+skin_rash|mole_change|headache,Dermatology
+bloating|heartburn,Gastroenterology
+numbness|dizziness|vision_changes|cough,Neurology
+stiffness|joint_pain,Orthopedics
+difficulty_breathing|muscle_pain,General Medicine
+heartburn|stomach_pain|bloating,Gastroenterology
+ear_pain,General Medicine
+itching|skin_rash|mole_change,Dermatology
+numbness|dry_skin,Neurology
+fatigue|sudden_weakness|sore_throat|itching,General Medicine
+back_pain|stiffness|muscle_pain,Orthopedics
+palpitations|swelling|exertional_fatigue,Cardiology
+dizziness|vision_changes,Neurology
+chest_pain|palpitations|swelling|exertional_fatigue|muscle_pain,Cardiology
+back_pain,Orthopedics
+fatigue|ear_pain|sore_throat|sudden_weakness,General Medicine
+sudden_weakness|sore_throat|ear_pain,General Medicine
+dizziness|vision_changes|numbness|headache,Neurology
+headache,Neurology
+sudden_weakness|ear_pain,General Medicine
+stomach_pain|bloating|heartburn|nausea,Gastroenterology
+heartburn|stomach_pain|bloating|nausea,Gastroenterology
+dizziness|vision_changes|numbness|headache|muscle_pain,Neurology
+nausea|stomach_pain,Gastroenterology
+mole_change|heartburn,Dermatology
+stomach_pain|bloating|nausea|heartburn,Gastroenterology
+bloating|dizziness,Gastroenterology
+itching|dry_skin|skin_rash|mole_change,Dermatology
+joint_pain,Orthopedics
+sudden_weakness|difficulty_breathing|fever|cough,General Medicine
+vision_changes,Neurology
+mole_change|skin_rash|itching,Dermatology
+sore_throat|difficulty_breathing|fatigue|stiffness,General Medicine
+back_pain|joint_pain|fatigue,Orthopedics
+skin_rash|dry_skin,Dermatology
+cough|fever,General Medicine
+stiffness|muscle_pain|joint_pain,Orthopedics
+vision_changes|numbness|headache|dry_skin,Neurology
+dizziness|numbness|vision_changes|headache,Neurology
+skin_rash|itching,Dermatology
+itching|skin_rash|mole_change,Dermatology
+sudden_weakness|sore_throat|headache,General Medicine
+mole_change|skin_rash|dry_skin|itching,Dermatology
+muscle_pain|joint_pain|sudden_weakness,Orthopedics
+dry_skin|skin_rash|itching,Dermatology
+difficulty_breathing|sore_throat|sudden_weakness|ear_pain,General Medicine
+stomach_pain|heartburn|nausea|bloating,Gastroenterology
+mole_change|skin_rash|dry_skin,Dermatology
+chest_pain|exertional_fatigue|palpitations,Cardiology
+mole_change|dry_skin|difficulty_breathing,Dermatology
+joint_pain|back_pain,Orthopedics
+muscle_pain,Orthopedics
+muscle_pain|stiffness,Orthopedics
+mole_change|headache,Dermatology
+muscle_pain,Orthopedics
+mole_change|itching,Dermatology
+chest_pain|swelling|palpitations|exertional_fatigue,Cardiology
+fever|sore_throat|skin_rash,General Medicine
+back_pain|stiffness,Orthopedics
+dry_skin|itching|mole_change|skin_rash,Dermatology
+fever|cough,General Medicine
+nausea|bloating,Gastroenterology
+headache|numbness,Neurology
+bloating,Gastroenterology
+dry_skin|skin_rash|mole_change|itching,Dermatology
+palpitations,Cardiology
+back_pain,Orthopedics
+heartburn|nausea|bloating|stomach_pain,Gastroenterology
+itching|dry_skin|mole_change|difficulty_breathing,Dermatology
+fatigue|sore_throat|ear_pain|sudden_weakness,General Medicine
+ear_pain|difficulty_breathing,General Medicine
+numbness,Neurology
+nausea|stomach_pain|bloating|sore_throat,Gastroenterology
+stiffness|joint_pain|back_pain|muscle_pain,Orthopedics
+stiffness,Orthopedics
+nausea|heartburn|stomach_pain,Gastroenterology
+dry_skin|mole_change|headache,Dermatology
+nausea,Gastroenterology
+swelling|palpitations|exertional_fatigue|chest_pain,Cardiology
+mole_change|itching|skin_rash|dry_skin,Dermatology
+fatigue|sore_throat|cough,General Medicine
+vision_changes|dizziness,Neurology
+swelling|chest_pain|palpitations|exertional_fatigue,Cardiology
+exertional_fatigue|chest_pain,Cardiology
+sudden_weakness|cough|sore_throat|difficulty_breathing,General Medicine
+muscle_pain|joint_pain,Orthopedics
+sore_throat|ear_pain,General Medicine
+difficulty_breathing|ear_pain|fever,General Medicine
+swelling|palpitations,Cardiology
+itching|dry_skin,Dermatology
+back_pain|joint_pain|muscle_pain,Orthopedics
+dry_skin|skin_rash|mole_change,Dermatology
+heartburn,Gastroenterology
+bloating|heartburn,Gastroenterology
+skin_rash,Dermatology
+itching,Dermatology
+mole_change|skin_rash,Dermatology
+stomach_pain|bloating|heartburn|nausea,Gastroenterology
+stiffness,Orthopedics
+dry_skin,Dermatology
+itching|dry_skin,Dermatology
+swelling|palpitations|exertional_fatigue,Cardiology
+chest_pain|palpitations|swelling,Cardiology
+skin_rash|itching|nausea,Dermatology
+nausea|stomach_pain|heartburn,Gastroenterology
+vision_changes|headache,Neurology
+fever|ear_pain|sudden_weakness|fatigue|nausea,General Medicine
+stomach_pain|nausea|bloating,Gastroenterology
+numbness|vision_changes|dizziness,Neurology
+nausea|bloating,Gastroenterology
+muscle_pain|joint_pain,Orthopedics
+vision_changes|headache|dizziness|numbness,Neurology
+numbness|vision_changes|dizziness|headache|joint_pain,Neurology
+skin_rash|itching,Dermatology
+heartburn|stomach_pain|nausea,Gastroenterology
+exertional_fatigue|chest_pain|palpitations|swelling,Cardiology
+chest_pain|swelling|exertional_fatigue|palpitations,Cardiology
+stiffness|muscle_pain,Orthopedics
+back_pain,Orthopedics
+stiffness|swelling,Orthopedics
+dizziness|headache,Neurology
+dizziness|numbness|vision_changes,Neurology
+fever|sore_throat,General Medicine
+nausea,Gastroenterology
+sudden_weakness|cough|ear_pain|fatigue,General Medicine
+chest_pain|palpitations|exertional_fatigue|swelling,Cardiology
+nausea|stiffness,Gastroenterology
+mole_change|itching,Dermatology
+dizziness|vision_changes|numbness,Neurology
+vision_changes|difficulty_breathing,Neurology
+headache|numbness,Neurology
+heartburn,Gastroenterology
+fever,General Medicine
+stiffness|muscle_pain|joint_pain,Orthopedics
+palpitations|chest_pain|swelling,Cardiology
+bloating|nausea,Gastroenterology
+chest_pain|swelling|exertional_fatigue|palpitations,Cardiology
+mole_change|itching|dry_skin|skin_rash|ear_pain,Dermatology
+palpitations|exertional_fatigue|skin_rash,Cardiology
+fever,General Medicine
+bloating,Gastroenterology
+joint_pain|back_pain|muscle_pain,Orthopedics
+swelling|ear_pain,Cardiology
+back_pain|joint_pain,Orthopedics
+stomach_pain,Gastroenterology
+swelling|mole_change,Cardiology
+exertional_fatigue|palpitations|chest_pain|swelling,Cardiology
+muscle_pain,Orthopedics
+ear_pain|difficulty_breathing,General Medicine
+heartburn|stomach_pain,Gastroenterology
+exertional_fatigue|chest_pain,Cardiology
+exertional_fatigue|chest_pain|stomach_pain,Cardiology
+muscle_pain|back_pain|stiffness,Orthopedics
+skin_rash,Dermatology
+swelling|palpitations|exertional_fatigue|chest_pain,Cardiology
+mole_change|dry_skin,Dermatology
+itching|mole_change|skin_rash,Dermatology
+headache,Neurology
+skin_rash|dry_skin|joint_pain,Dermatology
+palpitations|exertional_fatigue,Cardiology
+skin_rash|mole_change|dry_skin|itching,Dermatology
+joint_pain,Orthopedics
+headache|numbness|dizziness|vision_changes,Neurology
+stomach_pain|bloating|nausea,Gastroenterology
+dizziness|numbness|headache|vision_changes,Neurology
+heartburn|bloating,Gastroenterology
+palpitations|chest_pain|swelling|exertional_fatigue,Cardiology
+joint_pain|stiffness|back_pain|muscle_pain,Orthopedics
+numbness|headache|difficulty_breathing,Neurology
+fatigue,General Medicine
+headache|vision_changes|dizziness,Neurology
+joint_pain,Orthopedics
+difficulty_breathing|sudden_weakness|dizziness,General Medicine
+headache|numbness|vision_changes,Neurology
+sudden_weakness|difficulty_breathing|ear_pain,General Medicine
+numbness|vision_changes|dizziness,Neurology
+ear_pain|sore_throat,General Medicine
+exertional_fatigue,Cardiology
+mole_change|itching,Dermatology
+palpitations|swelling|ear_pain,Cardiology
+heartburn,Gastroenterology
+chest_pain|palpitations|exertional_fatigue,Cardiology
+stiffness|back_pain,Orthopedics
+dry_skin,Dermatology
+heartburn|bloating,Gastroenterology
+mole_change|itching|dry_skin,Dermatology
+stiffness|muscle_pain|back_pain,Orthopedics
+stiffness|joint_pain,Orthopedics
+ear_pain|difficulty_breathing|fatigue|sore_throat|muscle_pain,General Medicine
+headache|vision_changes|numbness|dizziness,Neurology
+ear_pain|sudden_weakness|sore_throat,General Medicine
+swelling|itching,Cardiology
+stomach_pain|nausea|bloating|heartburn,Gastroenterology
+numbness,Neurology
+stomach_pain|bloating,Gastroenterology
+stiffness|back_pain|joint_pain|muscle_pain,Orthopedics
+fever,General Medicine
+bloating|nausea,Gastroenterology
+palpitations|chest_pain|swelling,Cardiology
+headache|vision_changes|dizziness,Neurology
+palpitations|back_pain,Cardiology
+chest_pain|exertional_fatigue|swelling,Cardiology
+mole_change|skin_rash|itching,Dermatology
+skin_rash|itching|dry_skin,Dermatology
+vision_changes|headache|numbness|dizziness,Neurology
+fever|sore_throat|ear_pain|difficulty_breathing,General Medicine
+fatigue|fever|ear_pain|sudden_weakness,General Medicine
+dizziness|vision_changes|numbness|headache,Neurology
+chest_pain|exertional_fatigue|swelling|palpitations,Cardiology
+nausea|stomach_pain|bloating|heartburn,Gastroenterology
+muscle_pain|back_pain|stiffness,Orthopedics
+fever|ear_pain|sudden_weakness|fatigue,General Medicine
+itching|skin_rash|mole_change|palpitations,Dermatology
