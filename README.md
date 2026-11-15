@@ -211,6 +211,24 @@ The frontend provides `/login` and `/register` pages and stores the returned JWT
 the browser so it can show the signed-in patient state. The API base URL defaults to
 `http://localhost:5000`; set `VITE_API_URL` in the frontend environment to override it.
 
+## Deploy to Render
+
+The root `render.yaml` configures three Render services: the React static site, the
+Express API, and the Python ML API. Push the repository to GitHub, sign in to Render,
+choose **New > Blueprint**, and select this repository. Render builds and deploys the
+services from the Blueprint; later pushes to `main` trigger deployments.
+
+The Blueprint generates `JWT_SECRET` and connects the frontend and ML service URLs.
+You must provide a cloud MongoDB connection string as the API service's `MONGODB_URI`
+and set `CORS_ORIGIN` to the exact HTTPS URL of the deployed frontend (no trailing
+slash). Do this in Render's environment settings; do not commit or paste secrets into
+`render.yaml` or GitHub. MongoDB Atlas is not created by this Blueprint. Configure
+Atlas network access and a least-privilege database user for the Render service.
+
+The API and ML web services use Render's free plan, which can sleep when idle and may
+have cold starts. For always-on production use, choose a suitable paid plan and use a
+managed MongoDB deployment with backups.
+
 Dashboard endpoints:
 
 - `GET /api/dashboard/patient` — patient appointment counts and upcoming visits.

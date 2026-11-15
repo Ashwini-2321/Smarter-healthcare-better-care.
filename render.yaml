@@ -1,0 +1,53 @@
+services:
+  - type: web
+    name: smarter-healthcare-api
+    runtime: node
+    plan: free
+    region: singapore
+    rootDir: backend
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /
+    autoDeployTrigger: commit
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: MONGODB_URI
+        sync: false
+      - key: CORS_ORIGIN
+        sync: false
+      - key: ML_SERVICE_URL
+        fromService:
+          type: web
+          name: smarter-healthcare-ml
+          property: url
+
+  - type: web
+    name: smarter-healthcare-ml
+    runtime: python
+    plan: free
+    region: singapore
+    rootDir: ml-service
+    buildCommand: pip install -r requirements-render.txt
+    startCommand: gunicorn --workers 1 --threads 4 --bind 0.0.0.0:$PORT app:app
+    healthCheckPath: /health
+    autoDeployTrigger: commit
+
+  - type: web
+    name: smarter-healthcare-web
+    runtime: static
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./dist
+    autoDeployTrigger: commit
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: smarter-healthcare-api
+          property: url

@@ -96,7 +96,7 @@ async function startServer() {
     console.error("Could not send upcoming appointment reminders:", error.message);
   });
 
-  const server = app.listen(PORT, () => {
+  const server = app.listen(PORT, "0.0.0.0", () => {
     console.log(`Clinexa Backend running on http://localhost:${PORT}`);
   });
   server.on("close", () => clearInterval(reminderInterval));
